@@ -22,8 +22,9 @@ HiRedisRoam/ref/simpleclient 是一个简单的Redis客户端-服务器通信协
 
 ```c
 PING
-get name yyrwkk
 set name yyrwkk
+get name 
 ```
 
-![image-20240710155019149](pic/image-20240710155019149.png)
+<img src="pic/image-20240710155019149.png" align="left" width="50%"/>
+
