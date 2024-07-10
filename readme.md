@@ -14,3 +14,16 @@ HiRedis是Redis(https://redis.io/)数据库的简约C客户端库。
 
 它是一个流解析器，可以方便的重用，实现高效的回复解析。
 
+## simpleclient
+
+HiRedisRoam/ref/simpleclient 是一个简单的Redis客户端-服务器通信协议的测试工具。
+
+支持: PING、set、get命令。
+
+```c
+PING
+get name yyrwkk
+set name yyrwkk
+```
+
+![image-20240710155019149](pic/image-20240710155019149.png)
